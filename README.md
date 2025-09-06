@@ -1,4 +1,4 @@
-Here’s a clean **README.md** draft you can use for your *Answer Bot* project built with **Gemini Flash 2.5**:
+
 
 ````markdown
 # 🤖 Answer Bot
