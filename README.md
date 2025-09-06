@@ -29,8 +29,8 @@ It allows users to ask any question and receive instant, contextually accurate a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/answer-bot.git
-   cd answer-bot
+   git clone https://github.com/Shubhankar45/Answer-Bot--GenAI.git
+   cd Answer-Bot--GenAI
 ````
 
 2. Create a virtual environment and install dependencies:
@@ -38,7 +38,6 @@ It allows users to ask any question and receive instant, contextually accurate a
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows use venv\Scripts\activate
-   pip install -r requirements.txt
    ```
 
 3. Set up your environment variables:
@@ -51,7 +50,7 @@ It allows users to ask any question and receive instant, contextually accurate a
 4. Run the app:
 
    ```bash
-   streamlit run app.py
+   streamlit run index.py
    ```
 
 ---
